@@ -2,7 +2,7 @@
 
 This document explains how to access the GuidGrabber in order to obtain a GUID.  This GUID will be used to access the lab environment.
 
-. Begin by going to http://bit.ly/rhte-gg
+. Begin by going to http://bit.ly/rhte-guidgrabber
 +
 image::images/gg1.png[GuidGrabber Landing Page]
 
