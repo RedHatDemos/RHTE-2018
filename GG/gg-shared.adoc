@@ -2,7 +2,7 @@
 
 This document explains how to access the GuidGrabber in order to obtain a user name for the shared environment.  You will log in as this user to access the lab environment.
 
-. Begin by going to http://bit.ly/rhte-gg
+. Begin by going to http://bit.ly/rhte-guidgrabber
 +
 image::images/ggs1.png[GuidGrabber Landing Page]
 
