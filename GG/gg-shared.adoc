@@ -14,7 +14,7 @@ image::images/ggs1.png[GuidGrabber Landing Page]
 
 . The resulting page will display your lab's user and other useful information about your lab environment.
 +
-image::images/ggs2.png[Information Page]
+image::images/ggshared.png[Information Page]
 
 . When you are completely done with your lab environment, please click *Reset Workstation* so that you can move on to the next lab.  If you fail to do this, you will be locked into the GUID from the previous lab.
 +
