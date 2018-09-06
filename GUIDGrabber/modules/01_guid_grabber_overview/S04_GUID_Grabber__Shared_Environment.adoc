@@ -1,0 +1,17 @@
+
+:scrollbar:
+:data-uri:
+:noaudio:
+== GUID Grabber - Shared Environment
+
+Access the GUID Grabber in order to obtain a user name for the shared environment. You will log in as this user to access the lab environment.
+
+. Begin by going to http://bit.ly/rhte-guidgrabber
+. From this page select the proper Lab Code for the current lab.
+. Enter the Activation Key provided by the lab proctor.
+. Click *Next*
+. The resulting page will display your lab’s user and other useful information about your lab environment.
+. Click the link to open your Lab Instructions
+. Follow the instructions on the page and in the lab instructions to connect to your environments
+. When you are completely done with your lab environment, please click Reset Workstation so that you can move on to the next lab. If you fail to do this, you will be locked into the GUID from the previous lab.
+

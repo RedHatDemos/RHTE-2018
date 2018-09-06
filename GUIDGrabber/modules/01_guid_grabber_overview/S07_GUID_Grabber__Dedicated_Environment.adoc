@@ -1,0 +1,10 @@
+
+:scrollbar:
+:data-uri:
+:noaudio:
+== GUID Grabber - Dedicated Environment
+
+image::images/ggs1.png[]
+image::images/ggdedicated.png[]
+
+
