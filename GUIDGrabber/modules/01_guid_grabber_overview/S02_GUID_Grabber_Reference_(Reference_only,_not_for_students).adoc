@@ -1,0 +1,18 @@
+
+:scrollbar:
+:data-uri:
+:noaudio:
+== GUID Grabber Reference (Reference only, not for students)
+
+GPTE is providing an application that streamlines the process of providing lab information to your lab attendees called GuidGrabber.  The configuration file for this is at: https://docs.google.com/spreadsheets/d/1rMKhveEvjRcamPBHT4Nx78SbBuoCQ5u5qrDdE1yPgoo/edit#gid=0
+
+. Column C is an activation key that you will have to share with your lab attendees.  You can change this or keep what is there.  Please keep it unique from all the other activation keys.  On lab day, you will share this key up on the screen so users can get their lab information.
+. Column D (Ravello Only) This is the bastion host that will be shown to your attendees on the lab information page.  Please update this with the host name pattern you wish attendees to SSH into.  The keyword REPL will be replaced with the GUID for each user.  For example: workstation-REPL.rhpds.opentlc.com.
+. Column E is an HTML link to your lab instructions.  Please update this as soon as possible.  This link will also appear on the lab information page.
+. AWS dedicated and Ravello lab developers should provide a link to the GuidGrabber dedicated end user documentation in their lab instructions here: https://github.com/RedHatDemos/RHTE-2018/blob/master/GG/gg-dedicated.adoc
+. AWS Based Shared developers should provide a link to the GuidGrabber shared end user documentation in their lab instructions here: https://github.com/RedHatDemos/RHTE-2018/blob/master/GG/gg-shared.adoc
+. Finally, in your lab instructions all external SSH access to the bastion host for all labs will be as follows:
+* Username: lab-user
+* Password: r3dh4t1!
+. Internal SSH access will be as you configured it when you developed your lab.
+

@@ -1,0 +1,8 @@
+
+:scrollbar:
+:data-uri:
+:noaudio:
+== GUID Grabber - Shared Cluster (A1006)
+
+image::images/ggs1.png[]
+image::images/ggsharedcluster.png[]

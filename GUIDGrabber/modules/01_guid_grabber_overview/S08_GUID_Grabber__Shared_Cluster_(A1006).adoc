@@ -1,0 +1,19 @@
+
+:scrollbar:
+:data-uri:
+:noaudio:
+== GUID Grabber - Shared Cluster (A1006)
+
+You need to get a *User ID* from the GUID Grabber
+
+. Begin by going to http://bit.ly/rhte-guidgrabber
+. From this page select the proper Lab Code for the current lab.
+. Enter the Activation Key provided by the lab proctor.
+. Click Next.
+. The system will assign you a Student Number (a number between 1 and 150)
+. Your User Name for the Shared Clusters is user + the Student number
+* e.g. *user133*
+* Your Password is *r3dh4t1!*
+. Click the link provided to open your Lab Instructions
+. When you are completely done with your lab environment, please click Reset Workstation so that you can move on to the next lab. If you fail to do this, you will be locked into the GUID from the previous lab.
+

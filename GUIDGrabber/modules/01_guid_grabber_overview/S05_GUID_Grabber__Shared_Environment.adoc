@@ -1,0 +1,9 @@
+
+:scrollbar:
+:data-uri:
+:noaudio:
+== GUID Grabber - Shared Environment
+
+image::images/ggs1.png[]
+image::images/ggshared.png[]
+
