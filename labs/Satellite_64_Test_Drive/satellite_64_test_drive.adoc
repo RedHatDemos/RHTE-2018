@@ -422,8 +422,8 @@ By default, Satellite & Satellite Capsules require the administrator to approve 
 . Navigate to *Hosts -> All Hosts*
 . Verify that the rhaiclient is connected to the correct hostgroup which is *bootstrap*
 . Click on the host *rhaiclient.example.com* which takes you to the host details page.
-. Click the *Content* button.
-. Verify that your host is subscribed which is indicated by *Fully entitled* in the *Subscription Status* field.
+. Click the *Properties* button.
+. Verify that your host is subscribed which is indicated by *Fully entitled* in the *Subscription* field.
 
 
 === Populate risks on registered client
